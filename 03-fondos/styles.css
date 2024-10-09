@@ -1,0 +1,19 @@
+body {
+  background-color: #cccccc;
+  background-image: url("img/patron-lineas-abstractas-planas-lineales/5329549.jpg");
+  background-repeat: no-repeat;
+}
+
+#caja {
+  border: 5px solid black;
+  padding: 10px;
+  background-color: rgb(65, 129, 175);
+  color: white;
+  font-family: "Open sans";
+}
+
+h2 {
+  color: red;
+  background-color: white;
+  border: 5px solid red;
+}
